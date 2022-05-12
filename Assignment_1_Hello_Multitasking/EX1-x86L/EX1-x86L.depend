@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1310549874 source:c:\users\minak\downloads\compressed\micrium\micrium\software\ucos-ii\ports\win32\os_cpu_c.c
+	"includes.h"
+	"os_trace.h"
+
+1117095024 c:\users\minak\downloads\compressed\micrium\micrium\software\ucos-ii\ports\win32\os_trace.h
+
+1262958832 source:c:\users\minak\downloads\compressed\micrium\micrium\software\ucos-ii\ports\win32\os_trace.c
+	"includes.h"
+	"os_trace.h"
+
+1275554062 source:c:\users\minak\downloads\compressed\micrium\micrium\software\ucos-ii\source\ucos_ii.c
+	<ucos_ii.h>
+	<os_core.c>
+	<os_flag.c>
+	<os_mbox.c>
+	<os_mem.c>
+	<os_mutex.c>
+	<os_q.c>
+	<os_sem.c>
+	<os_task.c>
+	<os_time.c>
+	<os_tmr.c>
+
+1492431484 source:c:\users\minak\downloads\compressed\micrium\micrium\software\evalboards\microsoft\windows\codeblocks16.01\ex1-x86l\test.c
+	"includes.h"
+
+1492352659 c:\users\minak\downloads\compressed\micrium\micrium\software\evalboards\microsoft\windows\codeblocks16.01\ex1-x86l\includes.h
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<conio.h>
+	<dos.h>
+	<setjmp.h>
+	<os_cpu.h>
+	<os_cfg.h>
+	<ucos_ii.h>
+	<pc.h>
+
+1492347557 source:c:\users\minak\downloads\compressed\micrium\micrium\software\blocks\pc\codeblocks16.01\pc.c
+	"includes.h"
+
